@@ -1,0 +1,17 @@
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\bin\Debug\GDBProxy.exe
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\bin\Debug\GDBProxy.pdb
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\obj\Debug\GDBProxy.Form1.resources
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\obj\Debug\GDBProxy.Properties.Resources.resources
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\obj\Debug\GDBProxy.csproj.GenerateResource.Cache
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\obj\Debug\GDBProxy.exe
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\obj\Debug\GDBProxy.pdb
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\bin\Debug\IDBAccess.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\bin\Debug\Layers.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\bin\Debug\protobuf-net.dll
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\bin\Debug\protobuf-net.pdb
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\bin\Debug\protobuf-net.xml
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\bin\Debug\Layers.pdb
+C:\Users\hassan_sabirin\Documents\Visual Studio 2008\Projects\PetrelProjectIndexer\GDBProxy\bin\Debug\IDBAccess.pdb
+C:\Program Files\Schlumberger\Petrel 2010lite\Extensions\GDBProxy.exe
+C:\Program Files\Schlumberger\Petrel 2010lite\Extensions\GDBProxy.pdb
